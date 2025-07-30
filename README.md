@@ -55,7 +55,7 @@ This project is a web application that predicts employee salaries based on exper
 ## Notes
 
 - The dataset and model are synthetic and for demonstration purposes.
-- The dropdown options in the web app are currently set for US cities, but the dataset uses Indian cities. You may want to align these for consistency.
+- The dropdown options in the web app are currently set for Indian cities, but the dataset uses Indian cities. You may want to align these for consistency.
 
 ## License
 
