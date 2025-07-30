@@ -1,0 +1,1001 @@
+Experience (years),Education Level,Job Role,Location,Industry,Salary
+6,Bachelor,Sales,Bangalore,Retail,719793
+19,Bachelor,HR,Remote,Finance,1331624
+14,Master,Data Scientist,Chennai,Retail,1391957
+10,PhD,Accountant,Mumbai,Healthcare,1001161
+7,Bachelor,Data Scientist,Hyderabad,Healthcare,1182727
+20,High School,Accountant,Chennai,Finance,1590634
+6,PhD,Data Scientist,Hyderabad,Finance,1208483
+18,Bachelor,Accountant,Remote,Retail,1021546
+10,Bachelor,Data Scientist,Hyderabad,Education,1189961
+10,High School,Data Scientist,Mumbai,Finance,1260134
+20,High School,Data Scientist,Chennai,Tech,1281363
+3,Master,Data Scientist,Pune,Healthcare,1009068
+7,PhD,HR,Delhi,Tech,1142754
+2,PhD,Software Engineer,Mumbai,Healthcare,975297
+20,Master,Manager,Mumbai,Healthcare,1710868
+1,PhD,Sales,Pune,Finance,724815
+11,PhD,Manager,Chennai,Finance,1780955
+5,PhD,Manager,Chennai,Tech,1526247
+1,PhD,Accountant,Remote,Healthcare,677689
+20,PhD,Software Engineer,Hyderabad,Tech,1345903
+0,High School,Accountant,Remote,Education,435918
+11,PhD,Software Engineer,Pune,Tech,1241857
+11,High School,Software Engineer,Remote,Retail,1013679
+16,PhD,Data Scientist,Pune,Tech,1507285
+9,Master,HR,Chennai,Retail,969364
+15,Bachelor,Data Scientist,Hyderabad,Retail,1466152
+14,High School,HR,Remote,Retail,769589
+14,PhD,Accountant,Mumbai,Education,1352334
+18,Master,HR,Bangalore,Tech,1413293
+11,Bachelor,Accountant,Delhi,Tech,866951
+19,High School,Manager,Mumbai,Education,1657394
+2,Bachelor,Manager,Chennai,Healthcare,1206375
+4,Master,HR,Delhi,Finance,843495
+18,High School,HR,Bangalore,Tech,1101004
+6,Bachelor,Accountant,Bangalore,Finance,842566
+20,PhD,Data Scientist,Hyderabad,Education,1623243
+8,High School,Accountant,Delhi,Healthcare,802417
+6,Bachelor,Data Scientist,Hyderabad,Healthcare,1101361
+17,Master,Manager,Mumbai,Healthcare,1725181
+3,Master,Software Engineer,Pune,Education,858211
+13,High School,HR,Pune,Retail,1080351
+17,Bachelor,Data Scientist,Pune,Retail,1345929
+8,High School,Accountant,Delhi,Finance,711598
+20,High School,Manager,Pune,Retail,1817136
+1,Bachelor,Data Scientist,Mumbai,Retail,842364
+19,Bachelor,Accountant,Hyderabad,Healthcare,1178882
+14,PhD,HR,Delhi,Healthcare,1396657
+6,Bachelor,HR,Hyderabad,Finance,928436
+11,Master,Sales,Delhi,Tech,1210182
+7,High School,Software Engineer,Hyderabad,Finance,835392
+14,High School,Sales,Bangalore,Finance,1058033
+2,Master,Manager,Hyderabad,Education,1199145
+13,Bachelor,Data Scientist,Pune,Education,1024861
+16,Master,Manager,Bangalore,Finance,1993572
+3,Master,Accountant,Hyderabad,Finance,754151
+17,PhD,HR,Delhi,Finance,1448351
+7,Master,Sales,Delhi,Retail,842307
+3,High School,Sales,Delhi,Education,599617
+1,Master,Sales,Chennai,Finance,664937
+5,High School,Manager,Mumbai,Healthcare,1219136
+9,High School,HR,Delhi,Healthcare,903966
+3,High School,Data Scientist,Bangalore,Retail,896430
+17,Bachelor,Accountant,Delhi,Retail,1349030
+11,PhD,Data Scientist,Chennai,Tech,1295629
+1,High School,Manager,Pune,Tech,1125100
+9,High School,Accountant,Bangalore,Tech,1025262
+3,Bachelor,Sales,Chennai,Retail,568135
+13,High School,Software Engineer,Pune,Retail,958649
+15,Master,Manager,Remote,Retail,1508661
+14,Master,Manager,Remote,Healthcare,1781283
+7,PhD,HR,Bangalore,Retail,909402
+13,High School,Data Scientist,Hyderabad,Healthcare,1064417
+7,Bachelor,Manager,Mumbai,Tech,1441885
+20,Master,Manager,Mumbai,Tech,1690027
+15,Bachelor,Sales,Chennai,Tech,1090315
+12,Bachelor,Sales,Pune,Finance,939798
+17,Master,Accountant,Mumbai,Finance,1149999
+14,Bachelor,Software Engineer,Pune,Education,1306723
+20,Master,HR,Pune,Education,1328666
+12,Bachelor,Software Engineer,Chennai,Education,993723
+8,Master,Accountant,Chennai,Finance,964509
+14,High School,Sales,Chennai,Finance,877367
+12,PhD,Data Scientist,Mumbai,Education,1359317
+0,Master,Sales,Remote,Education,481622
+6,Master,HR,Chennai,Retail,901585
+8,PhD,Sales,Mumbai,Education,826505
+0,Master,HR,Chennai,Retail,579919
+11,Master,HR,Delhi,Healthcare,1238172
+7,Bachelor,HR,Pune,Finance,839962
+10,PhD,Accountant,Chennai,Education,1167618
+18,High School,HR,Bangalore,Finance,1405466
+16,Master,HR,Pune,Finance,1223050
+7,PhD,Data Scientist,Pune,Finance,1164587
+2,Bachelor,Software Engineer,Chennai,Healthcare,754597
+2,High School,Manager,Remote,Tech,1159970
+0,PhD,Software Engineer,Hyderabad,Education,778007
+4,High School,HR,Remote,Tech,728545
+9,High School,Data Scientist,Chennai,Tech,1221324
+6,High School,Sales,Pune,Tech,856598
+8,Master,Data Scientist,Bangalore,Finance,1346702
+6,Master,HR,Pune,Retail,827372
+8,Bachelor,Data Scientist,Remote,Finance,1154481
+7,Bachelor,Data Scientist,Bangalore,Finance,1147478
+11,PhD,HR,Mumbai,Tech,1318237
+1,Bachelor,Accountant,Delhi,Finance,680535
+0,High School,Data Scientist,Pune,Tech,846356
+15,High School,Manager,Chennai,Retail,1457590
+4,Master,Manager,Mumbai,Education,1326452
+2,High School,Data Scientist,Delhi,Tech,957934
+11,PhD,Accountant,Chennai,Retail,1025814
+7,High School,Sales,Hyderabad,Education,624883
+2,High School,HR,Chennai,Healthcare,662866
+0,PhD,Manager,Bangalore,Tech,1319378
+2,Bachelor,Sales,Bangalore,Tech,655584
+4,Bachelor,Data Scientist,Hyderabad,Healthcare,992800
+14,PhD,Sales,Mumbai,Healthcare,1316253
+13,Master,Software Engineer,Delhi,Tech,1454468
+2,High School,Manager,Chennai,Healthcare,1182669
+0,PhD,Data Scientist,Bangalore,Finance,1007119
+4,High School,HR,Mumbai,Education,608411
+13,Master,Accountant,Hyderabad,Education,815008
+6,High School,Data Scientist,Remote,Education,960301
+8,PhD,HR,Pune,Finance,1073183
+14,High School,Accountant,Remote,Healthcare,760792
+14,Bachelor,Accountant,Remote,Retail,1061884
+9,Master,Data Scientist,Bangalore,Healthcare,1231267
+12,Master,Sales,Hyderabad,Tech,1153968
+18,Master,Sales,Chennai,Education,1229018
+6,PhD,Accountant,Remote,Healthcare,830959
+16,Master,Sales,Remote,Retail,897225
+19,Bachelor,Software Engineer,Delhi,Tech,1425663
+3,PhD,Accountant,Bangalore,Finance,866325
+4,Bachelor,Accountant,Bangalore,Finance,829752
+6,High School,HR,Chennai,Retail,712617
+12,High School,Sales,Pune,Tech,959839
+14,High School,Accountant,Mumbai,Education,1179501
+10,High School,Software Engineer,Delhi,Healthcare,1132398
+3,Bachelor,HR,Bangalore,Tech,854711
+12,PhD,Data Scientist,Delhi,Finance,1293126
+6,PhD,Accountant,Bangalore,Retail,898404
+18,Master,Software Engineer,Delhi,Retail,1192250
+1,Bachelor,Manager,Hyderabad,Healthcare,1095549
+9,High School,Software Engineer,Remote,Retail,762725
+12,Bachelor,Software Engineer,Bangalore,Retail,1037588
+20,Master,HR,Delhi,Tech,1603258
+5,Master,Data Scientist,Mumbai,Education,934342
+11,Bachelor,Manager,Hyderabad,Healthcare,1310535
+11,Bachelor,Sales,Hyderabad,Tech,1029509
+19,Bachelor,Sales,Mumbai,Education,943753
+10,PhD,Software Engineer,Delhi,Tech,1193478
+6,High School,HR,Chennai,Tech,762223
+0,Bachelor,HR,Mumbai,Retail,597264
+0,Bachelor,Sales,Delhi,Education,503016
+19,Bachelor,Manager,Mumbai,Healthcare,1519361
+12,Master,Data Scientist,Mumbai,Healthcare,1235057
+8,Master,Manager,Bangalore,Education,1438412
+2,PhD,Accountant,Delhi,Retail,665849
+6,High School,Accountant,Chennai,Finance,865217
+5,PhD,Data Scientist,Remote,Tech,1142649
+7,High School,Sales,Bangalore,Retail,732609
+8,Master,Data Scientist,Mumbai,Education,1135545
+4,Master,HR,Remote,Tech,845607
+0,Master,Accountant,Pune,Healthcare,665413
+18,PhD,Software Engineer,Remote,Finance,1307500
+9,Bachelor,Software Engineer,Mumbai,Healthcare,1084956
+11,Bachelor,Sales,Mumbai,Education,1010471
+14,Master,HR,Delhi,Tech,1390032
+8,Bachelor,Manager,Delhi,Education,1422510
+19,Bachelor,HR,Bangalore,Tech,1283008
+16,PhD,Software Engineer,Chennai,Retail,1443951
+16,High School,Software Engineer,Bangalore,Finance,1289199
+19,Master,Accountant,Hyderabad,Retail,1421954
+11,Master,HR,Mumbai,Retail,1258188
+6,PhD,HR,Remote,Education,943187
+1,PhD,Software Engineer,Pune,Finance,921772
+2,Bachelor,Manager,Mumbai,Tech,1306944
+16,Master,Sales,Mumbai,Tech,1160412
+4,High School,Sales,Bangalore,Healthcare,671326
+16,PhD,HR,Pune,Tech,1357197
+16,High School,Sales,Pune,Education,972573
+16,High School,Software Engineer,Pune,Retail,1215337
+1,Master,Software Engineer,Bangalore,Retail,789768
+1,Master,HR,Mumbai,Retail,639350
+4,PhD,HR,Bangalore,Finance,916914
+0,Master,Accountant,Delhi,Tech,707912
+0,Master,HR,Delhi,Education,666699
+18,Master,Manager,Bangalore,Finance,1752040
+1,High School,Sales,Pune,Healthcare,551379
+20,PhD,HR,Mumbai,Education,1378115
+11,Bachelor,Data Scientist,Bangalore,Education,997539
+5,High School,Accountant,Bangalore,Education,737632
+3,Master,Data Scientist,Bangalore,Retail,955001
+10,High School,Software Engineer,Hyderabad,Education,918029
+16,Master,Sales,Delhi,Tech,1387643
+5,Master,HR,Remote,Education,771936
+4,High School,Data Scientist,Pune,Retail,873041
+19,PhD,Sales,Chennai,Education,1005740
+1,Master,Software Engineer,Remote,Healthcare,793508
+5,PhD,Manager,Pune,Healthcare,1421158
+10,Bachelor,Accountant,Chennai,Retail,779509
+15,Master,Sales,Hyderabad,Tech,1013046
+15,PhD,Sales,Bangalore,Tech,1223791
+0,PhD,Manager,Hyderabad,Finance,1296432
+8,Bachelor,Sales,Hyderabad,Retail,822656
+5,PhD,Software Engineer,Remote,Education,913278
+15,PhD,Software Engineer,Mumbai,Retail,1298664
+2,Bachelor,Manager,Remote,Finance,1223958
+19,Master,Accountant,Delhi,Retail,1106039
+3,PhD,HR,Chennai,Retail,698738
+18,PhD,Data Scientist,Bangalore,Finance,1789504
+2,PhD,HR,Remote,Tech,765362
+18,High School,Sales,Chennai,Education,968701
+19,Bachelor,Data Scientist,Pune,Finance,1593209
+6,High School,Manager,Chennai,Healthcare,1367075
+19,Bachelor,Manager,Pune,Tech,2055907
+8,Master,Accountant,Remote,Healthcare,884852
+0,Master,Data Scientist,Delhi,Tech,941733
+7,PhD,Software Engineer,Remote,Education,910850
+6,Bachelor,Data Scientist,Pune,Education,963121
+17,Master,Sales,Chennai,Retail,1139818
+7,Bachelor,Software Engineer,Chennai,Healthcare,1077498
+0,Master,Manager,Pune,Tech,1259473
+10,High School,Data Scientist,Hyderabad,Education,937184
+17,Master,HR,Delhi,Finance,1159701
+9,High School,Accountant,Mumbai,Education,769992
+2,Master,HR,Bangalore,Finance,842795
+6,PhD,Accountant,Chennai,Tech,1000260
+15,High School,Sales,Bangalore,Education,810899
+15,Master,HR,Mumbai,Education,1009312
+19,PhD,Data Scientist,Remote,Tech,1830335
+16,High School,Data Scientist,Bangalore,Education,1433738
+1,PhD,HR,Mumbai,Finance,800594
+0,Bachelor,Data Scientist,Pune,Education,779721
+15,Bachelor,Sales,Hyderabad,Healthcare,1150554
+11,High School,Software Engineer,Chennai,Retail,943834
+4,Master,Sales,Mumbai,Finance,767338
+4,High School,Accountant,Bangalore,Healthcare,673020
+8,PhD,Sales,Chennai,Tech,971939
+8,Master,Accountant,Hyderabad,Finance,874544
+2,Bachelor,Data Scientist,Pune,Retail,829076
+18,Master,Software Engineer,Remote,Retail,1216783
+15,Bachelor,Data Scientist,Chennai,Tech,1430241
+15,Master,Manager,Remote,Tech,1704527
+2,Master,Data Scientist,Mumbai,Finance,998499
+19,Master,Accountant,Hyderabad,Education,1225767
+0,PhD,Data Scientist,Bangalore,Tech,996811
+19,PhD,Data Scientist,Hyderabad,Education,1414690
+10,High School,Software Engineer,Hyderabad,Healthcare,1114507
+16,High School,Data Scientist,Delhi,Retail,1547812
+7,Bachelor,Software Engineer,Hyderabad,Education,886157
+3,PhD,HR,Hyderabad,Retail,768219
+5,Bachelor,Manager,Chennai,Education,1325005
+7,High School,Software Engineer,Bangalore,Healthcare,853820
+19,Bachelor,Accountant,Chennai,Tech,1435053
+2,High School,HR,Chennai,Healthcare,638444
+15,PhD,Software Engineer,Mumbai,Tech,1594809
+2,Master,Software Engineer,Chennai,Tech,972366
+17,PhD,Manager,Delhi,Retail,1646915
+13,Bachelor,Accountant,Delhi,Healthcare,1206460
+17,Bachelor,Sales,Remote,Education,1234328
+1,PhD,Sales,Mumbai,Healthcare,710868
+2,PhD,Software Engineer,Remote,Retail,817926
+15,High School,Data Scientist,Remote,Tech,1465002
+8,Bachelor,Accountant,Pune,Retail,862371
+3,Bachelor,HR,Bangalore,Finance,788359
+0,PhD,Data Scientist,Bangalore,Finance,1012801
+3,Master,Data Scientist,Chennai,Education,864305
+0,Bachelor,Accountant,Chennai,Retail,517086
+13,Master,Software Engineer,Pune,Education,1196532
+20,PhD,Software Engineer,Chennai,Education,1478283
+15,PhD,Software Engineer,Bangalore,Finance,1265690
+19,High School,Software Engineer,Remote,Education,1116263
+7,Bachelor,Sales,Hyderabad,Finance,745774
+6,Master,Software Engineer,Delhi,Tech,979215
+2,High School,Sales,Hyderabad,Retail,507282
+16,Bachelor,Sales,Hyderabad,Education,1273039
+0,High School,Software Engineer,Bangalore,Finance,714853
+15,PhD,Manager,Hyderabad,Healthcare,1936959
+11,Bachelor,HR,Pune,Education,871555
+18,High School,Data Scientist,Mumbai,Tech,1521920
+13,High School,Sales,Chennai,Tech,907076
+5,Master,Accountant,Mumbai,Healthcare,803880
+5,High School,Accountant,Remote,Finance,678570
+12,Bachelor,HR,Delhi,Education,917830
+18,Bachelor,Accountant,Chennai,Finance,1354977
+7,Master,Manager,Hyderabad,Tech,1423000
+1,Bachelor,Accountant,Delhi,Finance,630968
+20,PhD,Data Scientist,Chennai,Tech,1699135
+0,Bachelor,Data Scientist,Pune,Finance,853332
+14,Bachelor,Sales,Pune,Healthcare,944871
+0,High School,Software Engineer,Pune,Retail,597657
+4,High School,Manager,Pune,Healthcare,1244489
+15,Bachelor,Sales,Hyderabad,Healthcare,889252
+18,Master,Manager,Mumbai,Retail,2010581
+3,High School,Software Engineer,Chennai,Retail,715546
+2,Master,Accountant,Hyderabad,Education,632100
+16,Bachelor,Accountant,Pune,Education,1195574
+16,Bachelor,Software Engineer,Remote,Healthcare,1104008
+11,PhD,Sales,Mumbai,Healthcare,1023542
+13,High School,Software Engineer,Remote,Tech,1130905
+20,Bachelor,HR,Delhi,Tech,1226947
+5,PhD,Data Scientist,Remote,Education,944961
+2,High School,Sales,Delhi,Education,535568
+8,Bachelor,Manager,Delhi,Tech,1556958
+4,Bachelor,HR,Pune,Tech,854359
+16,High School,Sales,Delhi,Finance,1029588
+13,High School,Software Engineer,Bangalore,Finance,1238522
+20,High School,Software Engineer,Chennai,Tech,1653748
+2,Bachelor,Software Engineer,Chennai,Finance,847474
+0,Bachelor,Software Engineer,Pune,Retail,675896
+19,PhD,Manager,Bangalore,Education,1876674
+20,Master,HR,Remote,Education,1077776
+0,High School,Accountant,Hyderabad,Tech,568831
+2,Bachelor,Data Scientist,Remote,Healthcare,813351
+17,Bachelor,Manager,Hyderabad,Tech,1937806
+9,High School,Manager,Delhi,Finance,1449862
+2,Master,Accountant,Mumbai,Healthcare,731103
+7,High School,Accountant,Hyderabad,Finance,920085
+13,Master,Data Scientist,Mumbai,Retail,1190352
+17,Bachelor,Data Scientist,Chennai,Finance,1597968
+14,Master,Accountant,Mumbai,Retail,852366
+1,PhD,Software Engineer,Chennai,Retail,791732
+9,Bachelor,Manager,Bangalore,Finance,1626580
+1,PhD,Sales,Bangalore,Finance,749979
+16,High School,Data Scientist,Pune,Retail,1398740
+7,High School,Data Scientist,Pune,Healthcare,919367
+0,High School,Accountant,Delhi,Retail,487627
+8,Master,HR,Hyderabad,Education,916333
+10,Bachelor,Sales,Delhi,Retail,717758
+15,High School,Sales,Chennai,Healthcare,877700
+6,High School,Data Scientist,Delhi,Education,976928
+9,Bachelor,Software Engineer,Mumbai,Tech,1074571
+2,High School,HR,Chennai,Tech,699935
+17,PhD,Sales,Pune,Healthcare,1342258
+12,Bachelor,Data Scientist,Bangalore,Retail,1114736
+6,Bachelor,Sales,Pune,Finance,851169
+3,Bachelor,HR,Hyderabad,Healthcare,756482
+12,PhD,HR,Chennai,Education,1224521
+19,Bachelor,Manager,Chennai,Education,1777912
+0,PhD,Accountant,Mumbai,Tech,808596
+7,Bachelor,Accountant,Hyderabad,Education,847692
+13,Master,Data Scientist,Bangalore,Healthcare,1371577
+15,High School,HR,Remote,Education,1185443
+13,Master,Manager,Chennai,Healthcare,1606896
+11,High School,Manager,Chennai,Finance,1471651
+18,PhD,Sales,Mumbai,Tech,1374479
+14,Master,Sales,Delhi,Education,793589
+1,Bachelor,Manager,Bangalore,Healthcare,1240810
+1,High School,Sales,Pune,Retail,422991
+18,High School,HR,Hyderabad,Tech,1314355
+16,Master,Software Engineer,Chennai,Finance,1150529
+19,PhD,HR,Chennai,Healthcare,1627441
+9,Master,Manager,Pune,Finance,1440893
+5,PhD,Manager,Bangalore,Finance,1499187
+14,PhD,HR,Delhi,Education,1098692
+10,High School,Sales,Chennai,Education,671731
+4,Master,Sales,Bangalore,Healthcare,731422
+0,Master,Accountant,Pune,Retail,582189
+7,PhD,Manager,Mumbai,Healthcare,1605998
+20,Master,Data Scientist,Delhi,Retail,1573140
+11,Bachelor,Accountant,Hyderabad,Finance,1162874
+11,Bachelor,Sales,Chennai,Tech,968222
+4,Master,HR,Bangalore,Healthcare,908195
+6,Master,Sales,Mumbai,Healthcare,907123
+3,PhD,HR,Hyderabad,Retail,675098
+5,Bachelor,Accountant,Remote,Finance,754233
+12,Bachelor,Manager,Bangalore,Finance,1533153
+19,High School,Sales,Bangalore,Retail,897563
+14,PhD,HR,Hyderabad,Finance,1244445
+2,High School,Manager,Mumbai,Education,1137812
+7,Bachelor,Data Scientist,Remote,Tech,1134405
+19,PhD,HR,Pune,Healthcare,1447202
+15,Master,Accountant,Mumbai,Tech,1425305
+12,PhD,Data Scientist,Delhi,Healthcare,1469911
+17,Master,Data Scientist,Chennai,Education,1476267
+9,Master,Software Engineer,Hyderabad,Finance,1211240
+18,PhD,Sales,Pune,Retail,1407217
+16,Master,HR,Remote,Education,1227372
+18,High School,Data Scientist,Hyderabad,Tech,1537599
+4,Bachelor,Software Engineer,Hyderabad,Retail,756704
+20,Master,Accountant,Mumbai,Finance,1655161
+8,High School,Manager,Chennai,Education,1369354
+11,Master,HR,Delhi,Retail,940526
+20,Bachelor,Data Scientist,Bangalore,Education,1279971
+0,High School,Sales,Bangalore,Education,475826
+0,Bachelor,Software Engineer,Hyderabad,Finance,762156
+14,Bachelor,Data Scientist,Chennai,Healthcare,1300514
+1,High School,Sales,Remote,Retail,432200
+15,High School,Data Scientist,Remote,Finance,1122127
+7,High School,HR,Pune,Education,721313
+12,PhD,HR,Mumbai,Finance,1230595
+20,High School,HR,Chennai,Healthcare,1233282
+0,High School,Accountant,Chennai,Retail,430486
+15,High School,Accountant,Mumbai,Healthcare,931995
+6,High School,Software Engineer,Remote,Tech,814770
+4,Master,HR,Remote,Retail,765476
+2,PhD,Sales,Remote,Healthcare,694325
+11,Bachelor,Data Scientist,Hyderabad,Education,1037681
+15,High School,Manager,Chennai,Retail,1474437
+18,Master,Sales,Bangalore,Retail,1254290
+4,Master,Accountant,Mumbai,Finance,907109
+13,Master,Accountant,Remote,Education,817848
+4,Bachelor,Sales,Pune,Tech,635204
+14,High School,Accountant,Remote,Healthcare,1119192
+16,PhD,HR,Remote,Finance,1185460
+13,PhD,Software Engineer,Delhi,Healthcare,1456884
+19,Master,Data Scientist,Hyderabad,Tech,1358369
+4,Bachelor,Software Engineer,Mumbai,Tech,934568
+11,Bachelor,Data Scientist,Delhi,Retail,1181274
+15,Bachelor,Data Scientist,Delhi,Tech,1189044
+15,PhD,Software Engineer,Pune,Healthcare,1542363
+20,Master,Sales,Chennai,Education,1413351
+6,High School,Data Scientist,Pune,Education,934103
+3,PhD,Software Engineer,Chennai,Retail,849291
+0,Master,Data Scientist,Chennai,Healthcare,944087
+4,Master,Manager,Mumbai,Healthcare,1363746
+9,High School,Sales,Remote,Tech,760708
+4,High School,HR,Mumbai,Healthcare,772270
+3,High School,Data Scientist,Hyderabad,Finance,967303
+1,Bachelor,Manager,Chennai,Tech,1233823
+19,High School,HR,Delhi,Finance,1251641
+9,Master,HR,Remote,Retail,911091
+18,High School,Data Scientist,Bangalore,Education,1445452
+0,Master,Software Engineer,Hyderabad,Retail,760653
+4,PhD,Data Scientist,Mumbai,Education,1099540
+12,Bachelor,Manager,Pune,Retail,1378377
+3,PhD,HR,Hyderabad,Healthcare,869260
+15,PhD,Data Scientist,Hyderabad,Finance,1320119
+15,Master,Software Engineer,Remote,Education,1104693
+1,PhD,Data Scientist,Hyderabad,Tech,1023166
+16,Master,Sales,Hyderabad,Finance,924578
+19,High School,Software Engineer,Bangalore,Tech,1518381
+11,High School,Manager,Pune,Finance,1386046
+17,Master,HR,Pune,Finance,1528525
+2,High School,Data Scientist,Pune,Retail,784550
+0,Bachelor,Software Engineer,Chennai,Education,717488
+0,PhD,Sales,Delhi,Education,583729
+18,Bachelor,Software Engineer,Pune,Finance,1525210
+10,PhD,Accountant,Hyderabad,Healthcare,1040524
+4,High School,Sales,Hyderabad,Healthcare,691322
+11,Bachelor,Manager,Pune,Tech,1570009
+2,High School,HR,Remote,Tech,666432
+0,PhD,Manager,Pune,Retail,1165541
+0,Master,Data Scientist,Hyderabad,Finance,948137
+7,Master,Software Engineer,Chennai,Tech,1058913
+9,Bachelor,Accountant,Mumbai,Tech,949780
+10,High School,Sales,Mumbai,Finance,999997
+11,High School,Sales,Pune,Retail,736271
+12,Bachelor,Software Engineer,Bangalore,Tech,1323725
+11,Master,Accountant,Pune,Retail,1065156
+13,PhD,Software Engineer,Remote,Education,1194936
+1,Bachelor,Data Scientist,Pune,Retail,814723
+18,PhD,Manager,Mumbai,Healthcare,2025701
+17,Master,Sales,Hyderabad,Healthcare,1451938
+2,High School,Data Scientist,Pune,Retail,804168
+16,Master,Manager,Hyderabad,Healthcare,1918457
+7,Bachelor,Data Scientist,Hyderabad,Education,939875
+9,High School,Accountant,Bangalore,Finance,866733
+1,Bachelor,Sales,Hyderabad,Healthcare,582864
+18,Bachelor,Software Engineer,Mumbai,Healthcare,1461556
+8,Master,Software Engineer,Chennai,Retail,1002949
+6,Bachelor,Manager,Chennai,Education,1353598
+3,Master,HR,Delhi,Finance,880865
+20,High School,Accountant,Remote,Retail,883165
+17,Master,Manager,Pune,Retail,1634555
+12,High School,HR,Remote,Education,1023047
+10,Master,Data Scientist,Mumbai,Finance,1393030
+3,PhD,Accountant,Hyderabad,Education,673984
+20,PhD,Data Scientist,Chennai,Finance,1546598
+3,Bachelor,Sales,Remote,Education,448553
+9,Master,Accountant,Mumbai,Retail,920474
+4,Master,HR,Chennai,Retail,766634
+8,High School,Sales,Hyderabad,Tech,971209
+2,Bachelor,Software Engineer,Remote,Healthcare,750019
+16,Master,HR,Chennai,Education,1007440
+2,Bachelor,Manager,Pune,Tech,1240057
+15,PhD,Software Engineer,Pune,Healthcare,1350524
+3,Master,Software Engineer,Delhi,Education,853002
+17,Master,Manager,Delhi,Finance,1606916
+16,Bachelor,Accountant,Chennai,Healthcare,1197959
+6,Master,Software Engineer,Mumbai,Retail,1058515
+4,Bachelor,HR,Pune,Tech,771606
+11,Master,Sales,Mumbai,Healthcare,861364
+16,High School,Software Engineer,Mumbai,Healthcare,1259483
+12,Bachelor,HR,Chennai,Retail,990774
+2,Master,Data Scientist,Mumbai,Education,873969
+8,PhD,HR,Pune,Finance,1077447
+16,Master,Sales,Hyderabad,Retail,1079919
+16,PhD,HR,Delhi,Finance,1428851
+19,PhD,Manager,Hyderabad,Education,1679722
+15,High School,Sales,Mumbai,Healthcare,1177403
+12,Bachelor,Accountant,Hyderabad,Finance,929824
+18,Master,Data Scientist,Pune,Tech,1790837
+16,High School,Manager,Pune,Tech,1621754
+3,Master,Accountant,Mumbai,Retail,619733
+11,PhD,HR,Chennai,Education,1039867
+8,Bachelor,Sales,Hyderabad,Retail,650026
+18,Master,Data Scientist,Chennai,Retail,1529802
+11,Master,Manager,Chennai,Retail,1556896
+8,PhD,Accountant,Bangalore,Tech,1010909
+6,Master,Accountant,Mumbai,Tech,997516
+13,Master,Data Scientist,Delhi,Retail,1429953
+19,PhD,HR,Pune,Tech,1471685
+18,High School,Data Scientist,Pune,Education,1236255
+14,PhD,Accountant,Mumbai,Retail,1165530
+15,High School,Software Engineer,Remote,Tech,1334953
+20,Bachelor,Manager,Remote,Finance,1930235
+4,High School,Data Scientist,Remote,Retail,768722
+2,High School,Accountant,Delhi,Retail,504949
+11,Bachelor,HR,Pune,Education,966416
+19,High School,Accountant,Mumbai,Healthcare,1077847
+20,PhD,HR,Pune,Healthcare,1411393
+3,High School,Data Scientist,Chennai,Education,846775
+20,Bachelor,HR,Hyderabad,Education,1400605
+15,PhD,Sales,Hyderabad,Education,1163245
+6,Bachelor,Sales,Pune,Healthcare,751646
+12,Bachelor,Sales,Bangalore,Education,1019938
+20,Master,Software Engineer,Delhi,Tech,1502706
+9,Master,Data Scientist,Remote,Retail,996811
+6,Bachelor,Accountant,Delhi,Retail,784050
+13,Bachelor,Accountant,Delhi,Finance,1205729
+4,Bachelor,Software Engineer,Chennai,Finance,910143
+2,Master,HR,Delhi,Retail,646495
+10,Master,Software Engineer,Hyderabad,Tech,1294388
+10,High School,HR,Chennai,Healthcare,973670
+17,High School,HR,Mumbai,Healthcare,1154417
+14,Bachelor,Manager,Delhi,Tech,1893702
+11,PhD,Accountant,Delhi,Healthcare,1258449
+8,PhD,Sales,Mumbai,Education,873849
+9,Master,HR,Delhi,Retail,944512
+11,Master,Manager,Mumbai,Retail,1641066
+16,Master,Accountant,Chennai,Tech,1489229
+5,Bachelor,Sales,Hyderabad,Healthcare,710790
+6,PhD,HR,Mumbai,Finance,1029008
+13,High School,HR,Bangalore,Finance,1059526
+12,Bachelor,Software Engineer,Mumbai,Healthcare,1009425
+7,High School,Software Engineer,Delhi,Finance,947102
+9,High School,Accountant,Remote,Tech,795701
+8,Bachelor,Sales,Remote,Tech,758288
+17,High School,HR,Chennai,Healthcare,1415164
+1,PhD,Accountant,Pune,Finance,762849
+4,High School,Accountant,Chennai,Tech,777505
+4,PhD,Data Scientist,Pune,Tech,1119569
+5,PhD,Software Engineer,Remote,Education,914256
+18,PhD,Sales,Remote,Education,1256739
+7,Master,HR,Mumbai,Tech,958041
+15,High School,Accountant,Hyderabad,Healthcare,1141006
+12,Bachelor,HR,Bangalore,Retail,964500
+0,Bachelor,Data Scientist,Chennai,Retail,806074
+19,High School,Sales,Delhi,Tech,1098417
+16,Master,Accountant,Pune,Tech,1098959
+6,Master,HR,Delhi,Tech,906058
+12,PhD,Software Engineer,Hyderabad,Healthcare,1271252
+3,High School,Data Scientist,Pune,Education,802378
+3,High School,Sales,Chennai,Tech,658653
+5,Bachelor,Data Scientist,Mumbai,Tech,1045229
+18,High School,Software Engineer,Delhi,Finance,1327765
+11,Master,Sales,Hyderabad,Healthcare,853338
+6,High School,Data Scientist,Chennai,Tech,1023200
+9,Bachelor,Manager,Remote,Finance,1342899
+18,PhD,Software Engineer,Remote,Retail,1169353
+6,Bachelor,Software Engineer,Chennai,Tech,1056983
+2,Bachelor,Software Engineer,Chennai,Tech,828173
+12,PhD,Manager,Chennai,Finance,1864066
+12,Bachelor,Manager,Pune,Healthcare,1598957
+17,Bachelor,HR,Chennai,Tech,1006491
+19,High School,Accountant,Delhi,Retail,957320
+7,High School,Data Scientist,Hyderabad,Tech,1002681
+8,PhD,HR,Pune,Retail,924855
+6,High School,Data Scientist,Chennai,Education,834570
+0,High School,Accountant,Bangalore,Education,523325
+2,Bachelor,Manager,Bangalore,Retail,1211999
+12,Master,Accountant,Hyderabad,Healthcare,1110712
+16,High School,Manager,Remote,Tech,1933442
+0,Master,Accountant,Mumbai,Tech,788173
+5,High School,HR,Mumbai,Education,800646
+20,High School,Sales,Remote,Retail,1052407
+5,PhD,HR,Pune,Tech,970679
+11,PhD,Data Scientist,Pune,Tech,1525764
+12,PhD,HR,Pune,Healthcare,1226260
+12,Master,Software Engineer,Mumbai,Finance,1081156
+14,Bachelor,Data Scientist,Bangalore,Education,1262948
+20,High School,Accountant,Mumbai,Education,1405954
+15,High School,Data Scientist,Delhi,Finance,1513021
+20,High School,Sales,Chennai,Tech,1044604
+10,Master,Manager,Pune,Healthcare,1526655
+4,PhD,Accountant,Bangalore,Healthcare,839074
+3,Bachelor,Data Scientist,Hyderabad,Education,864097
+2,Master,Accountant,Hyderabad,Healthcare,692503
+18,PhD,Accountant,Chennai,Finance,1293748
+19,Master,Accountant,Bangalore,Tech,1265144
+17,Bachelor,Manager,Mumbai,Finance,2034713
+14,PhD,HR,Mumbai,Retail,1238826
+8,Master,Accountant,Delhi,Education,1055257
+16,Bachelor,Software Engineer,Delhi,Healthcare,1379788
+13,High School,Sales,Mumbai,Retail,902254
+14,Bachelor,Manager,Hyderabad,Healthcare,1515838
+0,High School,Data Scientist,Pune,Tech,799898
+20,Master,Manager,Hyderabad,Tech,2145900
+2,PhD,Data Scientist,Delhi,Tech,1082741
+15,PhD,Manager,Chennai,Healthcare,1551833
+10,Master,Data Scientist,Mumbai,Retail,1054463
+11,PhD,Accountant,Delhi,Tech,1217894
+9,PhD,HR,Delhi,Retail,890012
+15,High School,Data Scientist,Pune,Healthcare,1177264
+7,Master,Data Scientist,Mumbai,Retail,1107797
+5,Bachelor,Software Engineer,Pune,Healthcare,884964
+11,High School,Data Scientist,Mumbai,Healthcare,1319595
+20,Master,Software Engineer,Pune,Education,1562440
+7,High School,Sales,Hyderabad,Healthcare,817802
+3,Bachelor,Accountant,Chennai,Healthcare,685016
+7,Bachelor,Software Engineer,Chennai,Finance,1035231
+17,Master,HR,Mumbai,Tech,1182750
+4,Bachelor,Accountant,Bangalore,Education,605432
+8,High School,Software Engineer,Remote,Education,821630
+3,Bachelor,Accountant,Delhi,Education,637319
+16,High School,Accountant,Delhi,Finance,1373441
+8,High School,Accountant,Mumbai,Healthcare,863581
+0,Bachelor,Sales,Pune,Tech,563075
+20,Master,HR,Bangalore,Retail,1086354
+19,PhD,Manager,Hyderabad,Healthcare,2032706
+12,Bachelor,Manager,Pune,Finance,1527251
+15,High School,Software Engineer,Pune,Healthcare,1093326
+12,High School,Accountant,Mumbai,Healthcare,892447
+13,Bachelor,Software Engineer,Mumbai,Finance,1164304
+2,Master,Sales,Delhi,Education,584121
+5,Master,Sales,Mumbai,Education,746393
+17,High School,Data Scientist,Mumbai,Tech,1687632
+18,High School,Sales,Mumbai,Tech,1261571
+4,Master,Data Scientist,Delhi,Education,1041766
+14,PhD,HR,Hyderabad,Retail,1218925
+1,Bachelor,Software Engineer,Hyderabad,Healthcare,762933
+9,High School,HR,Remote,Retail,689519
+17,High School,Sales,Remote,Healthcare,1207859
+12,Master,HR,Mumbai,Education,1086681
+4,Bachelor,HR,Remote,Tech,756870
+0,Master,HR,Delhi,Tech,731030
+0,Bachelor,Sales,Hyderabad,Retail,508874
+17,Bachelor,Accountant,Pune,Tech,1070121
+14,Bachelor,HR,Hyderabad,Education,1042213
+16,High School,Data Scientist,Hyderabad,Retail,1129787
+10,PhD,Sales,Delhi,Healthcare,901260
+20,Master,HR,Remote,Tech,1241779
+16,PhD,Accountant,Pune,Finance,1345723
+12,Master,Sales,Delhi,Tech,880675
+0,Bachelor,Manager,Mumbai,Healthcare,1180160
+1,High School,Accountant,Chennai,Retail,513846
+8,PhD,Data Scientist,Hyderabad,Healthcare,1159849
+2,High School,HR,Chennai,Finance,676268
+0,Master,Manager,Delhi,Education,1176792
+20,High School,Manager,Delhi,Tech,1564144
+15,High School,Sales,Delhi,Retail,1153283
+5,PhD,Manager,Chennai,Education,1285664
+16,Bachelor,Data Scientist,Delhi,Healthcare,1601028
+4,High School,Data Scientist,Mumbai,Retail,849892
+4,Bachelor,Software Engineer,Delhi,Education,901948
+5,Master,Data Scientist,Bangalore,Retail,1023651
+2,High School,Accountant,Remote,Finance,579133
+20,PhD,Manager,Chennai,Finance,2051483
+4,Master,Data Scientist,Bangalore,Tech,1053184
+20,Master,Sales,Delhi,Tech,1663428
+4,PhD,Software Engineer,Mumbai,Finance,1019503
+9,High School,Manager,Hyderabad,Retail,1418115
+9,High School,Software Engineer,Pune,Finance,1047123
+18,Master,Manager,Remote,Tech,2011533
+16,High School,Sales,Pune,Finance,1322992
+20,Bachelor,Software Engineer,Delhi,Finance,1288897
+13,PhD,HR,Remote,Retail,1193016
+8,Bachelor,Accountant,Remote,Education,632835
+13,High School,Accountant,Mumbai,Tech,1192450
+0,Master,Manager,Remote,Retail,1074330
+18,PhD,HR,Chennai,Finance,1678915
+12,High School,Software Engineer,Bangalore,Finance,1029953
+12,High School,HR,Bangalore,Education,798395
+3,Master,HR,Bangalore,Tech,921391
+0,Master,Software Engineer,Chennai,Tech,794955
+16,Bachelor,Sales,Pune,Healthcare,950699
+7,PhD,HR,Mumbai,Tech,966650
+1,PhD,HR,Remote,Education,623223
+7,Master,Sales,Chennai,Healthcare,892868
+6,Bachelor,HR,Bangalore,Healthcare,1000525
+1,PhD,HR,Delhi,Finance,798628
+2,Master,HR,Hyderabad,Finance,772566
+17,High School,Accountant,Remote,Tech,1020602
+11,PhD,Data Scientist,Chennai,Healthcare,1429915
+0,Bachelor,Sales,Chennai,Finance,543697
+11,Bachelor,HR,Mumbai,Education,937540
+4,Bachelor,Accountant,Mumbai,Finance,792686
+16,High School,Sales,Chennai,Finance,1009804
+15,PhD,Manager,Bangalore,Healthcare,1685967
+14,PhD,Manager,Hyderabad,Healthcare,1565452
+14,High School,HR,Remote,Retail,836201
+4,PhD,Accountant,Mumbai,Education,806568
+20,High School,Accountant,Remote,Healthcare,1234514
+13,High School,Sales,Bangalore,Tech,888223
+1,High School,Sales,Remote,Education,376044
+10,Bachelor,Accountant,Delhi,Education,1098051
+18,PhD,Sales,Mumbai,Healthcare,1339275
+6,High School,Accountant,Bangalore,Education,769427
+5,PhD,Data Scientist,Bangalore,Healthcare,1182207
+1,Bachelor,Accountant,Hyderabad,Finance,698447
+5,High School,Manager,Hyderabad,Retail,1191333
+17,Master,Sales,Delhi,Finance,1241431
+1,Bachelor,Accountant,Bangalore,Healthcare,648772
+17,Master,Accountant,Pune,Healthcare,1090214
+14,PhD,Sales,Bangalore,Finance,1350873
+18,PhD,Data Scientist,Hyderabad,Tech,1349061
+1,Bachelor,Data Scientist,Pune,Tech,901684
+19,PhD,Sales,Mumbai,Tech,1363523
+5,Master,Software Engineer,Mumbai,Healthcare,1075050
+0,High School,Sales,Remote,Education,355001
+14,High School,Sales,Chennai,Healthcare,820197
+9,High School,Data Scientist,Hyderabad,Education,1080687
+18,Bachelor,Data Scientist,Chennai,Finance,1634853
+16,PhD,Sales,Pune,Retail,858994
+4,Master,Sales,Hyderabad,Education,635494
+3,PhD,Sales,Delhi,Tech,868112
+9,PhD,Data Scientist,Bangalore,Healthcare,1176227
+16,PhD,Sales,Delhi,Finance,1158367
+9,High School,Sales,Pune,Tech,880505
+16,Master,HR,Hyderabad,Finance,1472580
+19,Master,Software Engineer,Pune,Retail,1671070
+4,PhD,Manager,Bangalore,Healthcare,1433668
+1,High School,Software Engineer,Mumbai,Healthcare,773348
+5,High School,HR,Mumbai,Retail,713930
+20,Master,Manager,Pune,Healthcare,1908204
+1,High School,Sales,Chennai,Education,450844
+12,High School,HR,Hyderabad,Finance,1094693
+10,High School,Sales,Hyderabad,Tech,869993
+10,Bachelor,Data Scientist,Mumbai,Retail,1258049
+15,PhD,Accountant,Remote,Education,1176111
+10,Master,HR,Delhi,Tech,1077742
+18,Master,Data Scientist,Remote,Tech,1636712
+14,Bachelor,HR,Bangalore,Retail,1080571
+15,PhD,HR,Delhi,Education,1414183
+10,Master,Data Scientist,Delhi,Tech,1363359
+15,High School,Manager,Pune,Tech,1579315
+7,Master,Software Engineer,Mumbai,Education,1020468
+3,High School,Sales,Remote,Healthcare,531335
+7,Bachelor,HR,Remote,Tech,912458
+3,High School,Sales,Mumbai,Finance,600867
+2,Master,Accountant,Remote,Education,641515
+2,Master,Data Scientist,Mumbai,Tech,1042228
+17,Master,Sales,Pune,Retail,1037853
+18,Bachelor,Data Scientist,Chennai,Finance,1732297
+18,Bachelor,Sales,Delhi,Tech,1325984
+20,PhD,Software Engineer,Pune,Finance,1681061
+4,Master,Software Engineer,Hyderabad,Finance,953684
+17,High School,Software Engineer,Bangalore,Healthcare,1156689
+9,Bachelor,Software Engineer,Chennai,Finance,1044204
+20,Master,Software Engineer,Hyderabad,Healthcare,1375285
+5,Master,Software Engineer,Delhi,Education,1017151
+0,Bachelor,Data Scientist,Remote,Healthcare,810842
+4,PhD,HR,Mumbai,Retail,848238
+8,Bachelor,Sales,Delhi,Tech,845745
+11,Bachelor,Software Engineer,Pune,Education,943312
+13,High School,Data Scientist,Bangalore,Education,1063131
+1,High School,Data Scientist,Pune,Retail,758949
+16,PhD,Data Scientist,Chennai,Healthcare,1410286
+13,Master,HR,Chennai,Tech,1178514
+12,Bachelor,Sales,Bangalore,Healthcare,1107319
+8,PhD,HR,Hyderabad,Finance,976454
+14,High School,Manager,Hyderabad,Healthcare,1521546
+14,Bachelor,Data Scientist,Chennai,Education,1253781
+10,Master,Manager,Chennai,Tech,1450691
+15,High School,Accountant,Remote,Healthcare,1117136
+16,High School,Software Engineer,Mumbai,Tech,1269131
+3,High School,Software Engineer,Remote,Tech,816401
+0,PhD,HR,Remote,Finance,695867
+7,Master,Sales,Hyderabad,Finance,906829
+16,Bachelor,Manager,Bangalore,Education,1675852
+2,PhD,Sales,Hyderabad,Retail,656099
+19,PhD,HR,Mumbai,Tech,1456637
+14,PhD,Software Engineer,Pune,Retail,1358768
+14,High School,Sales,Chennai,Education,912594
+13,Master,Sales,Chennai,Tech,1030845
+13,PhD,Software Engineer,Mumbai,Tech,1233974
+1,Bachelor,Manager,Remote,Retail,1118641
+12,Master,Software Engineer,Bangalore,Healthcare,1449968
+13,Bachelor,Sales,Chennai,Finance,1035894
+18,Master,Manager,Delhi,Healthcare,1705869
+6,Bachelor,Manager,Remote,Retail,1267852
+2,High School,Software Engineer,Chennai,Finance,826483
+14,PhD,Sales,Delhi,Healthcare,958052
+13,Bachelor,HR,Mumbai,Finance,1114728
+10,Master,Sales,Mumbai,Tech,1106140
+14,PhD,Data Scientist,Remote,Healthcare,1500523
+12,PhD,Accountant,Chennai,Finance,1101282
+17,Master,HR,Hyderabad,Finance,1242812
+5,Bachelor,Manager,Delhi,Finance,1398788
+2,High School,HR,Bangalore,Healthcare,699277
+18,High School,Manager,Chennai,Education,1591968
+14,Bachelor,Manager,Bangalore,Healthcare,1568091
+4,PhD,HR,Chennai,Retail,711578
+9,PhD,Manager,Hyderabad,Healthcare,1496022
+6,PhD,Manager,Hyderabad,Finance,1573267
+16,PhD,Data Scientist,Remote,Tech,1392677
+6,Bachelor,Sales,Remote,Healthcare,686360
+11,PhD,Sales,Hyderabad,Healthcare,869383
+16,Master,Accountant,Pune,Finance,1197780
+12,PhD,Accountant,Hyderabad,Tech,1065560
+19,High School,Data Scientist,Mumbai,Tech,1268282
+3,PhD,Accountant,Mumbai,Retail,742655
+9,Bachelor,HR,Pune,Healthcare,876850
+2,High School,Software Engineer,Delhi,Tech,807738
+8,Bachelor,Software Engineer,Bangalore,Tech,994328
+12,Bachelor,Software Engineer,Chennai,Education,1232307
+17,High School,Data Scientist,Chennai,Education,1209099
+14,Bachelor,Data Scientist,Pune,Tech,1155963
+3,Bachelor,Manager,Mumbai,Retail,1170023
+14,PhD,Software Engineer,Remote,Tech,1162981
+1,Master,HR,Chennai,Finance,722878
+14,Bachelor,Accountant,Mumbai,Healthcare,1023596
+7,Bachelor,HR,Delhi,Retail,850704
+7,Bachelor,Accountant,Bangalore,Finance,810870
+16,PhD,Software Engineer,Delhi,Retail,1402276
+11,Master,Software Engineer,Pune,Finance,1351965
+18,High School,Software Engineer,Hyderabad,Healthcare,1056901
+9,PhD,Data Scientist,Hyderabad,Healthcare,1350753
+8,PhD,Accountant,Hyderabad,Education,854444
+4,Master,Data Scientist,Delhi,Finance,1129755
+5,Master,Data Scientist,Chennai,Education,1101758
+19,PhD,Sales,Bangalore,Finance,1206728
+1,High School,HR,Hyderabad,Education,546670
+12,PhD,HR,Pune,Healthcare,1091464
+5,Master,Manager,Pune,Retail,1261991
+4,High School,Data Scientist,Hyderabad,Education,828323
+0,Master,Accountant,Hyderabad,Finance,643273
+20,High School,Sales,Bangalore,Finance,1392603
+20,Bachelor,Sales,Hyderabad,Healthcare,1158531
+5,Master,HR,Bangalore,Finance,1033770
+5,Master,Data Scientist,Pune,Tech,1197893
+15,PhD,Manager,Hyderabad,Retail,1868129
+3,Master,Data Scientist,Delhi,Education,909783
+10,Master,Software Engineer,Remote,Retail,1155700
+8,Bachelor,Data Scientist,Delhi,Healthcare,1161341
+2,Master,Software Engineer,Pune,Education,820904
+18,Bachelor,Software Engineer,Bangalore,Education,1367881
+7,Bachelor,Manager,Delhi,Tech,1430280
+4,Bachelor,Accountant,Bangalore,Healthcare,750911
+3,Bachelor,HR,Delhi,Finance,797857
+5,High School,Data Scientist,Delhi,Tech,1117514
+1,PhD,Software Engineer,Bangalore,Tech,985779
+19,High School,Data Scientist,Chennai,Retail,1374704
+10,Master,Accountant,Delhi,Retail,960698
+3,High School,HR,Hyderabad,Retail,635760
+14,High School,Accountant,Remote,Tech,869171
+5,Master,HR,Pune,Finance,807713
+16,Master,Sales,Chennai,Education,1320268
+5,Master,HR,Bangalore,Retail,861119
+18,High School,Manager,Chennai,Finance,1869472
+1,High School,Accountant,Mumbai,Healthcare,630929
+14,Master,Software Engineer,Mumbai,Retail,1220518
+10,PhD,Sales,Delhi,Education,856270
+7,PhD,Manager,Delhi,Healthcare,1388851
+18,Bachelor,Data Scientist,Hyderabad,Healthcare,1265851
+12,Master,Accountant,Remote,Education,1059647
+11,Bachelor,Software Engineer,Pune,Retail,1176812
+4,PhD,HR,Chennai,Tech,907010
+5,Bachelor,Software Engineer,Mumbai,Education,807711
+3,Master,Data Scientist,Delhi,Education,977889
+18,Master,Sales,Pune,Education,1271929
+19,Master,Sales,Chennai,Healthcare,1441346
+0,High School,Accountant,Delhi,Finance,576111
+19,Bachelor,Sales,Delhi,Tech,1573407
+16,PhD,Accountant,Mumbai,Retail,1350927
+11,PhD,Accountant,Mumbai,Retail,1131179
+14,PhD,Accountant,Delhi,Finance,1212871
+0,High School,HR,Bangalore,Education,526701
+13,High School,Manager,Delhi,Tech,1481984
+5,Master,Accountant,Pune,Retail,753926
+4,PhD,Accountant,Delhi,Retail,806224
+10,High School,Manager,Hyderabad,Education,1245274
+3,Master,Software Engineer,Remote,Finance,912634
+12,PhD,Accountant,Hyderabad,Tech,1038828
+10,Bachelor,HR,Hyderabad,Finance,958861
+2,Master,Sales,Bangalore,Finance,728441
+0,High School,Sales,Bangalore,Tech,573595
+5,High School,Data Scientist,Delhi,Tech,1086310
+17,Master,Data Scientist,Hyderabad,Retail,1420302
+9,Master,Sales,Bangalore,Retail,932129
+4,High School,Sales,Mumbai,Tech,731710
+9,Bachelor,HR,Delhi,Healthcare,931863
+11,PhD,Manager,Pune,Retail,1554460
+1,Bachelor,Data Scientist,Remote,Healthcare,831593
+12,Master,Manager,Chennai,Tech,1748806
+7,Bachelor,HR,Delhi,Retail,915989
+1,High School,Sales,Chennai,Finance,568758
+19,Master,Accountant,Hyderabad,Tech,1473763
+0,PhD,Manager,Remote,Education,1129872
+4,High School,Sales,Chennai,Healthcare,597703
+8,High School,Sales,Hyderabad,Tech,748744
+16,PhD,Software Engineer,Mumbai,Tech,1264310
+8,PhD,Manager,Chennai,Retail,1332867
+10,Bachelor,Accountant,Remote,Retail,796676
+14,Master,Manager,Delhi,Retail,1633413
+5,PhD,Sales,Hyderabad,Education,725022
+2,PhD,Accountant,Delhi,Retail,689115
+16,Master,HR,Remote,Tech,1501517
+4,PhD,Software Engineer,Bangalore,Retail,956431
+11,PhD,Sales,Hyderabad,Finance,1079065
+17,Bachelor,Data Scientist,Chennai,Retail,1508584
+13,High School,Data Scientist,Hyderabad,Education,1152747
+20,High School,Software Engineer,Delhi,Finance,1735011
+10,High School,HR,Mumbai,Tech,1099254
+8,High School,Sales,Hyderabad,Tech,682285
+1,PhD,Manager,Chennai,Healthcare,1271484
+11,Master,Software Engineer,Bangalore,Finance,1455446
+2,Master,HR,Pune,Healthcare,742764
+2,Bachelor,Manager,Mumbai,Finance,1284446
+0,Bachelor,Data Scientist,Bangalore,Finance,895973
+7,PhD,Data Scientist,Hyderabad,Education,1129295
+7,Master,Manager,Delhi,Healthcare,1506856
+10,Master,Software Engineer,Remote,Education,972829
+8,High School,Data Scientist,Delhi,Finance,1187934
+4,PhD,Sales,Chennai,Tech,816350
+13,PhD,Accountant,Delhi,Finance,1335877
+2,High School,Manager,Mumbai,Education,1146566
+20,PhD,Manager,Delhi,Healthcare,2220824
+4,PhD,Data Scientist,Chennai,Healthcare,1095418
+4,Bachelor,Software Engineer,Pune,Education,794411
+18,Master,Sales,Hyderabad,Healthcare,1195606
+13,PhD,Software Engineer,Remote,Retail,1028429
+3,Bachelor,HR,Hyderabad,Tech,821773
+12,Master,HR,Delhi,Tech,1125973
+9,High School,Accountant,Bangalore,Tech,897152
+17,Bachelor,Data Scientist,Hyderabad,Healthcare,1625689
+7,Bachelor,Data Scientist,Pune,Healthcare,1125384
+7,Master,Data Scientist,Delhi,Finance,1145591
+6,High School,Accountant,Remote,Finance,786066
+7,Bachelor,HR,Chennai,Tech,910849
+13,PhD,Software Engineer,Pune,Retail,1158152
+18,PhD,Accountant,Delhi,Finance,1442114
+5,PhD,Accountant,Pune,Finance,891116
+0,High School,Software Engineer,Hyderabad,Healthcare,677633
+14,Bachelor,Data Scientist,Remote,Retail,1359288
+0,PhD,Sales,Chennai,Tech,702909
+16,High School,Software Engineer,Delhi,Finance,1455959
+0,PhD,HR,Mumbai,Retail,681600
+14,Master,Manager,Chennai,Retail,1538939
+1,Bachelor,Manager,Mumbai,Tech,1230427
+13,Bachelor,Accountant,Pune,Retail,1115487
+20,High School,Manager,Bangalore,Retail,1918284
+7,High School,Sales,Chennai,Retail,559747
+7,Bachelor,Data Scientist,Pune,Finance,999538
+18,PhD,HR,Mumbai,Tech,1448915
+6,PhD,Sales,Hyderabad,Retail,834321
+18,Master,HR,Hyderabad,Retail,981629
+5,PhD,HR,Bangalore,Finance,943543
+5,High School,Data Scientist,Chennai,Tech,1016878
+2,High School,Accountant,Chennai,Healthcare,688545
+6,PhD,Manager,Chennai,Finance,1563548
+18,High School,Data Scientist,Pune,Tech,1684182
+7,Bachelor,Sales,Remote,Retail,729126
+9,Bachelor,Accountant,Remote,Tech,847901
+19,PhD,Sales,Bangalore,Tech,1441453
+14,Bachelor,Accountant,Chennai,Tech,957865
+14,Bachelor,Sales,Pune,Healthcare,1067138
+0,Master,Data Scientist,Hyderabad,Tech,923664
+19,Master,Accountant,Mumbai,Healthcare,1311752
+6,Bachelor,Accountant,Pune,Retail,652498
+3,PhD,HR,Remote,Healthcare,827557
+5,Master,HR,Remote,Retail,829261
+0,High School,Software Engineer,Hyderabad,Retail,587829
+4,High School,Sales,Hyderabad,Healthcare,688709
+0,High School,HR,Mumbai,Finance,650656
+3,PhD,Software Engineer,Hyderabad,Education,797870
+1,Bachelor,HR,Bangalore,Tech,799834
+9,High School,Sales,Mumbai,Education,731685
+4,PhD,Accountant,Hyderabad,Tech,898356
+9,Master,Manager,Delhi,Tech,1491938
+0,Bachelor,Sales,Pune,Retail,450391
+5,Master,Data Scientist,Hyderabad,Tech,1089182
+12,PhD,HR,Bangalore,Tech,1163087
+14,High School,HR,Chennai,Healthcare,1073237
+3,High School,Accountant,Hyderabad,Education,574204
+12,PhD,Data Scientist,Remote,Healthcare,1308730
+19,High School,Accountant,Remote,Tech,1136594
+14,Bachelor,Data Scientist,Remote,Retail,1073043
+7,PhD,Manager,Chennai,Healthcare,1405543
+4,Master,HR,Remote,Healthcare,851007
+14,PhD,HR,Delhi,Finance,1198710
+3,Bachelor,Manager,Hyderabad,Tech,1327675
+11,Bachelor,Software Engineer,Remote,Retail,980676
+12,PhD,Accountant,Mumbai,Healthcare,1137752
+1,PhD,Manager,Chennai,Healthcare,1300564
+18,High School,Accountant,Delhi,Retail,810004
+18,Bachelor,Sales,Mumbai,Tech,1077295
+3,PhD,HR,Mumbai,Finance,958835
+3,PhD,Accountant,Mumbai,Healthcare,919398
+10,Bachelor,Data Scientist,Mumbai,Finance,1386580
+4,PhD,Accountant,Hyderabad,Education,766844
+19,High School,Sales,Remote,Tech,1361782
+10,Bachelor,HR,Pune,Education,1015190
+9,High School,Manager,Hyderabad,Education,1203414
+7,High School,Sales,Hyderabad,Education,611427
+5,High School,HR,Delhi,Tech,826310
+5,High School,Accountant,Delhi,Tech,745340
+7,Bachelor,Software Engineer,Remote,Retail,826991
+14,High School,Software Engineer,Pune,Finance,1428852
